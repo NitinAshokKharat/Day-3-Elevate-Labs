@@ -49,7 +49,7 @@ WHERE Emp_id = 2121;
 USE LIBRARY;
 SELECT * FROM EMPLOYEE;
 
-/*Appling WHERE, AND, OR, LIKE, BETWEEN*/
+/*Applying WHERE, AND, OR, LIKE, BETWEEN*/
 
 SELECT * FROM EMPLOYEE
 WHERE designation = 'prof.';
